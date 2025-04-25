@@ -1,10 +1,10 @@
 # 🏥 ArogyaSeva AI – Hospital Management System with AI Integration
 
 ArogyaSeva AI is a comprehensive hospital management system built to streamline patient care, diagnostics, billing, and CRM operations using AI-powered features and modern web technologies. The system supports multilingual data (including Tamil), integrates real-time AI diagnostic tools, and provides a responsive, intuitive user interface.
-🔗 **[Live Demo](https://kzmjkfhlf22h0wkis9x1.lite.vusercontent.net/)** 
+
 ---
 
-## 🚀 Features
+## 🚀 Features 🔗 **[Live Demo - Click Here](https://kzmjkfhlf22h0wkis9x1.lite.vusercontent.net/)** 
 
 ### 🧍 Patient Management
 - Automatic UHID generation upon registration
